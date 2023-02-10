@@ -47,7 +47,7 @@ $(document.getElementById('root'), CounterWidget)
 
 ---
 
-## Loading Data example
+## Loading data example
 The following example performs a fetch request using `$.once()` function.
 ```js
 function DogsWidget($) {
@@ -100,7 +100,7 @@ $(document.getElementById('root'), DogsWidget)
 ```
 
 ---
-## Re-using Widgets example
+## Re-using widgets example
 The following example defines a table widget which is used by app widget.
 ```js
 function TableWidget($, { cols, data }) {
