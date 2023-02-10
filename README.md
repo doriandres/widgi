@@ -1,6 +1,18 @@
 # Widgi JS
 
-Widgi is a tiny (only 2kB) utility that allows you to build reactive user interfaces without the need of preprocessors or bundlers (like Webpack or Babel) in modern browsers.
+Widgi is a tiny (only 2kB) and optimized utility that allows you to build reactive web user interfaces without the need of preprocessors or bundlers (like Webpack or Babel) in modern browsers.
+
+---
+
+## Try it out!
+
+```html
+<!-- Old school minified script -->
+<script src="https://raw.githubusercontent.com/doriandres/widgi/main/lib/widgi.min.js"></script>
+
+<!-- Or as a module -->
+<script type="module" src="https://raw.githubusercontent.com/doriandres/widgi/main/lib/widgi.module.js"></script>
+```
 
 ---
 
