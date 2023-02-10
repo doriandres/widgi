@@ -100,7 +100,7 @@ $(document.getElementById('root'), DogsWidget)
 ```
 
 ---
-## Reusing Widgets example
+## Re-using Widgets example
 The following example defines a table widget which is used by app widget.
 ```js
 function TableWidget($, { cols, data }) {
